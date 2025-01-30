@@ -1,4 +1,4 @@
-class ToggleHistory < Formula
+class FreeMemory < Formula
   desc "Interactive script to enable or disable command history tracking"
   homepage "https://github.com/arpit-curve/homebrew-free-memory"
   url "https://github.com/arpit-curve/homebrew-free-memory/archive/v1.0.0.tar.gz"
